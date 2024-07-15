@@ -12,6 +12,7 @@
 		EC41393C2C44F67300BFE707 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC41393B2C44F67300BFE707 /* Movie.swift */; };
 		EC41393E2C44F67500BFE707 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC41393D2C44F67500BFE707 /* Assets.xcassets */; };
 		EC4139422C44F67500BFE707 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC4139412C44F67500BFE707 /* Preview Assets.xcassets */; };
+		EC4139492C452D4800BFE707 /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4139482C452D4800BFE707 /* SampleData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EC41393D2C44F67500BFE707 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC41393F2C44F67500BFE707 /* FriendsFavoriteMovies.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FriendsFavoriteMovies.entitlements; sourceTree = "<group>"; };
 		EC4139412C44F67500BFE707 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EC4139482C452D4800BFE707 /* SampleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				EC4139372C44F67300BFE707 /* FriendsFavoriteMoviesApp.swift */,
 				EC4139392C44F67300BFE707 /* ContentView.swift */,
+				EC4139482C452D4800BFE707 /* SampleData.swift */,
 				EC41393B2C44F67300BFE707 /* Movie.swift */,
 				EC41393D2C44F67500BFE707 /* Assets.xcassets */,
 				EC41393F2C44F67500BFE707 /* FriendsFavoriteMovies.entitlements */,
@@ -145,6 +148,7 @@
 				EC41393A2C44F67300BFE707 /* ContentView.swift in Sources */,
 				EC41393C2C44F67300BFE707 /* Movie.swift in Sources */,
 				EC4139382C44F67300BFE707 /* FriendsFavoriteMoviesApp.swift in Sources */,
+				EC4139492C452D4800BFE707 /* SampleData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
