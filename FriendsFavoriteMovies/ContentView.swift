@@ -65,5 +65,5 @@ struct ContentView: View {
 
 #Preview {
     ContentView()
-        .modelContainer(for: Movie.self, inMemory: true)
+        .modelContainer(SampleData.shared.modelContainer)
 }
